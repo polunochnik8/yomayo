@@ -1,8 +1,7 @@
-User-agent: Yandex,Google,Bing,Duckduckgo
-Allow:    http://webdesigner.ga/
-Disallow: http://webdesigner.ga/sitemap.txt
-Disallow: http://webdesigner.ga/robots.txt
-Disallow: http://webdesigner.ga/images/
-Disalow:  http://webdesigner.ga/css/
-Disalow:  http://webdesigner.ga/font-awesome/
-Sitemap:  http://webdesigner.ga/sitemap.txt
+User-agent:*
+Allow:    http://yomayo.ga/
+Disallow: http://yomayo.ga/sitemap.txt
+Disallow: http://yomayo.ga/robots.txt
+Disallow: http://yomayo.ga/img/
+Disalow:  http://yomayo.ga/css/
+Sitemap:  http://yomayo.ga/sitemap.txt

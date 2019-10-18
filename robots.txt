@@ -1,5 +1,6 @@
 User-agent:*
 Allow:    http://yomayo.ga/
+Disallow:    http://www.yomayo.ga/
 Disallow: http://yomayo.ga/sitemap.txt
 Disallow: http://yomayo.ga/robots.txt
 Disallow: http://yomayo.ga/img/

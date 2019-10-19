@@ -1,8 +1,8 @@
 User-agent:*
-Allow:    http://yomayo.ga/
-Disallow:    http://www.yomayo.ga/
-Disallow: http://yomayo.ga/sitemap.txt
-Disallow: http://yomayo.ga/robots.txt
-Disallow: http://yomayo.ga/img/
-Disalow:  http://yomayo.ga/css/
-Sitemap:  http://yomayo.ga/sitemap.txt
+Allow:    https://yomayo.ga/
+Disallow:    https://www.yomayo.ga/
+Disallow: https://yomayo.ga/sitemap.txt
+Disallow: https://yomayo.ga/robots.txt
+Disallow: https://yomayo.ga/img/
+Disalow:  https://yomayo.ga/css/
+Sitemap:  https://yomayo.ga/sitemap.txt

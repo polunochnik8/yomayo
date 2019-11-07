@@ -1,7 +1,7 @@
 User-agent:*
 Allow:    https://yomayo.ga/
 Disallow:    https://www.yomayo.ga/
-Disallow: https:yomayo.ga/sitemap.xml
+Disallow: https://yomayo.ga/sitemap.xml
 Allow: https://yomayo.ga/index.html
 Disallow: https://yomayo.ga/img/
 Disalow:  https://yomayo.ga/css/
